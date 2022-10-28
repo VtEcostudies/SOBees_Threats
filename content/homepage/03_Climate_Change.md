@@ -17,13 +17,13 @@ Climate change will likely alter where bee species are found within the state. T
 
 <div class="row" style="justify-content: center">
 <div class="col-lg-8 h_iframe" style="offset: 2">
-<iframe style="height:700px;max-width:900px;min-width:800px;padding:5px;" src="https://missions.vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html" frameBorder="0" allowtransparency="true">
+<iframe style="height:700px;max-width:900px;min-width:800px;padding:5px;" src="http://vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html" frameBorder="0" allowtransparency="true">
 </iframe>
 <div class="caption">
 Interactive map illustrating how Bee species richness may change through time given anticipated climate change (RCP 7.0)
 </div>
 
-<a href="https://missions.vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html" target="blank_">Link to larger interactive map</a>
+<a href="http://vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html" target="blank_">Link to larger interactive map</a>
 </div>
 
 
