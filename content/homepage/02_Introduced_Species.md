@@ -5,7 +5,7 @@ weight: 4
 ---
 <br>
 <div class="lead">
-<h4> 
+<h4>
 About 95% of the state is within the foraging range of a registered Honey Bee hive
 </h4>
 </div>
@@ -43,5 +43,3 @@ Additionally, habitat alterations from invasive species, such as earthworms and 
 </div>
 </div>
 </div>
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>

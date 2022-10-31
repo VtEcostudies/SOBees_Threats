@@ -14,18 +14,16 @@ Increasing temperature and extreme weather are among the greatest long-term thre
 
 Climate change will likely alter where bee species are found within the state. The graphic below illustrates how bee diversity may change given anticipated climatic conditions. We used climate envelope models to predict future distributions of 253 bee species using several greenhouse gas concentrations. Below, species richness predictions for 30-year intervals are shown assuming a moderate reduction from current greenhouse gas emissions (Representative Concentration Pathway; RCP 7.0). Use the sliding window below on the interactive graphic to explore how climate change may impact bee diversity across the state.
 
-
-<div class="row" style="justify-content: center">
-<div class="col-lg-8 h_iframe" style="offset: 2">
-<iframe style="height:700px;max-width:900px;min-width:800px;padding:5px;" src="http://vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html" frameBorder="0" allowtransparency="true">
-</iframe>
-<div class="caption">
-Interactive map illustrating how Bee species richness may change through time given anticipated climate change (RCP 7.0)
+<div class="container">
+  <div class="row" style="justify-content: center">
+      <iframe
+        style="min-height:730px; max-width:900px; min-width:800px;"
+        src="https://vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html"
+        FrameBorder="0" allowtransparency="true">
+      </iframe>
+      <div class="caption">
+        Interactive map illustrating how Bee species richness may change through time given anticipated climate change (RCP 7.0)
+      </div>
+      <a href="http://vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html" target="blank_">Link to larger interactive map</a>
+  </div>
 </div>
-
-<a href="http://vtatlasoflife.org/SOBees_2022/VT_Bees_Futures.html" target="blank_">Link to larger interactive map</a>
-</div>
-
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>   
-

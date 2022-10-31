@@ -17,6 +17,4 @@ Continued urban sprawl in Vermont, particularly in Chittenden County in areas of
 </div>
 </div>
 
-Agricultural intensification is a global conservation issue, with economic forces driving the consolidation and mechanization of agriculture, which generally reduces the biological diversity of farmland. In Vermont, one particular group of bees that is likely threatened by the industrialization of agriculture (and development of former agricultural land) are the four thistle and burdock associated species, including the Texas Mason (<i>Osmia texana</i>), a watchlist species. 
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
+Agricultural intensification is a global conservation issue, with economic forces driving the consolidation and mechanization of agriculture, which generally reduces the biological diversity of farmland. In Vermont, one particular group of bees that is likely threatened by the industrialization of agriculture (and development of former agricultural land) are the four thistle and burdock associated species, including the Texas Mason (<i>Osmia texana</i>), a watchlist species.
