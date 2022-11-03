@@ -3,19 +3,15 @@ title: 'Introduced & Managed Species'
 header_menu: true
 weight: 4
 ---
-<br>
 <div class="lead">
-<h4>
-About 95% of the state is within the foraging range of a registered Honey Bee hive
-</h4>
+  <h4>About 95% of the state is within the foraging range of a registered Honey Bee hive</h4>
 </div>
-<br>
 
 Invasive and introduced species are a major cause of biodiversity loss. For bees in Vermont, this threat can manifest through multiple pathways, including competition, pathogen spillover, habitat alteration, and direct predation.
 
 <div class = "row">
   <div class="col-lg-5">
-    <img src="https://stateofbees.vtatlasoflife.org/images/Apis_mellifera_VT_hives.png" alt="Apis_mellifera_SDM_hives_VT" style="height:700px; width:490px;">
+    <img src="https://stateofbees.vtatlasoflife.org/images/Apis_mellifera_VT_hives.png" alt="Apis_mellifera_SDM_hives_VT">
     <p class="caption">Honey Bee (<i>Apis mellifera</i>) in Vermont. Locations of registered hives (triangles) and iNaturalist records (small dots) in Vermont. The underlying colors denote areas where Honey Bees are likely (dark green) and unlikely to occur (lightgreen)</p>
   </div>
 
@@ -29,8 +25,8 @@ Invasive and introduced species are a major cause of biodiversity loss. For bees
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-lg-7">
+<div class="row">
+  <div class="col-lg-7">
     <p>
     Other non-native bees such as the Horn-faced Mason (<i>Osmia cornifrons</i>), Taurus Orchard Bee (<i>Osmia taurus</i>), and Alfalfa Leafcutter (<i>Megachile rotundata</i>), that have been historically managed for pollination services, have escaped and are <a href="https://www.nature.com/articles/s41598-020-75566-9" target = "blank_"> likely affecting native bee populations</a>. Since agricultural bee management practices present a possible significant risk to local and regional bee populations they should be implemented with great caution, especially since most of Vermont’s pollinator mediated agriculture is relatively small scale, where <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2010.01823.x" target="blank_"> wild bees may be sufficient and produce higher quality crops</a>.
     </p>

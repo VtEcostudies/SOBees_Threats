@@ -13,11 +13,11 @@ weight: 3
 </div>
 
 <div class = "row">
-  <div class = "col-lg-6">
+  <div class = "col-lg-7">
     <p>
     Continued urban sprawl in Vermont, particularly in Chittenden County in areas of high bee diversity, is likely to be a major threat at both local and regional scales. One example happened during our surveys. Sandy soils generally support high bee diversity, but are often targeted for development. In Williston a sandy, vacant field that was a nesting site for a number of uncommon bee species was developed and is now covered with buildings, pavement, and turf grass. Similar sites around the state are being targeted for development, including for solar fields, which may be seeded with non-native grasses and mowed frequently. Direct mortality from vehicle strikes may be <a href="https://www.researchgate.net/profile/Desiree-Narango-2/publication/323459526_Roadside_habitat_impacts_insect_traffic_mortality/links/5d4d6c2d299bf1995b723667/Roadside-habitat-impacts-insect-traffic-mortality.pdf" target="blank_">a significant source of mortality</a> in some areas.
     </div>
-  <div class="col-lg-6">
+  <div class="col-lg-5">
     <img src="https://stateofbees.vtatlasoflife.org/images/A. manicatum.jpg">
   </div>
 </div>
