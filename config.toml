@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "VAL - State of Bees - Threats"
+title = "State of Vermont's Wild Bees - Threats"
 
 [markup]
   [markup.goldmark]
@@ -38,7 +38,7 @@ title = "VAL - State of Bees - Threats"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "State of Bees"
+    title = "State of Bees - Threats"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
