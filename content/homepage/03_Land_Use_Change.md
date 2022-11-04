@@ -19,7 +19,7 @@ weight: 3
     </div>
   <div class="col-lg-5">
     <img src="https://stateofbees.vtatlasoflife.org/images/A. manicatum.jpg">
-    <label class="image-caption">European wool carder bee (<i>Anthidium manicatum</i>)</label>
+    <label class="image-caption">European Woolcarder (<i>Anthidium manicatum</i>) male © Spencer Hardy</label>
   </div>
 </div>
 
