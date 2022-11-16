@@ -47,4 +47,10 @@ title = "State of Vermont's Wild Bees - Threats"
     [params.meta]
         keywords = "Bees, Vermont, State Ranks, Bee conservation, Important Bee Areas, Honey bee, Honeybee, Bumble bee, Bumblebee, Apis mellifera, Bee threats, Bee climate change"
 
-    googleAnalytics = "G-8040ZFBZP9"
+    # This isn't working as internal Hugo feature, but this is the GA4 Measurement ID for the stream
+    # - landingPage
+    # See /layouts/partials/custom_footer.html for gtag code
+    googleAnalytics = "G-EGQH57H0XF"
+
+[sitemap]
+  filename = 'static/sitemap.xml'
